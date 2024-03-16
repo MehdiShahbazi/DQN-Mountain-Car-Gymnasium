@@ -67,8 +67,8 @@ Here is a summary of the training outcomes over 1050 episodes. The plots depict 
 
 
 <p align="center">
-  <img src="./Gifs/reward_plot.png" width="44%" height=44% />
-  <img src="./Gifs/Loss_plot.png" width="44%" height=44% />
+  <img src="./Gifs/reward_plot.png" width="48%" height=48% />
+  <img src="./Gifs/Loss_plot.png" width="48%" height=48% />
 </div>
 
 
