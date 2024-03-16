@@ -49,20 +49,20 @@ You can view the training procedure through the following GIFs, demonstrating th
 
 
 <p align="center">
-  <img src="./Gifs/EP 1.gif" width="33%" height=33% />
-  <img src="./Gifs/EP 100.gif" width="33%" height=33% />
-  <img src="./Gifs/EP 200.gif" width="33%" height=33% />
+  <img src="./Gifs/EP 1.gif" width="31%" height=31% />
+  <img src="./Gifs/EP 100.gif" width="31%" height=31% />
+  <img src="./Gifs/EP 200.gif" width="31%" height=31% />
 </div>
 
 <p align="center">
-  <img src="./Gifs/EP 600.gif" width="33%" height=33% />
-  <img src="./Gifs/EP 800.gif" width="33%" height=33% />
-  <img src="./Gifs/EP 1000.gif" width="33%" height=33% />
+  <img src="./Gifs/EP 600.gif" width="31%" height=31% />
+  <img src="./Gifs/EP 800.gif" width="31%" height=31% />
+  <img src="./Gifs/EP 1000.gif" width="31%" height=31% />
 </div>
 
 
 
-#### Results
+### Results
 Here is a summary of the training outcomes over 1050 episodes. The plots depict the raw rewards obtained, along with the Simple Moving Average (SMA) of 50 rewards (SMA 50), and the network loss during training. It's worth noting that an additional 50 episodes were included beyond the 1000 episodes only to compute the SMA 50 for smoother analysis.
 
 
